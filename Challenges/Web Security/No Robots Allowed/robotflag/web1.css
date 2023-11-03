@@ -1,0 +1,25 @@
+header {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+body {
+    font-family: "Comic Sans MS";
+}
+
+h2 {
+    color: white;
+}
+
+.content {
+    display: none;
+    padding: 50px;
+    text-align: center;
+}
+
+#intro {
+    background-color: #ccc;
+    font-family: "Helvetica";
+    text-align: center;
+}
